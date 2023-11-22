@@ -26,6 +26,11 @@ A-SOiD was developed as a collaboration between the Yttri Lab and Schwarz Lab by
 [Eric Yttri](https://github.com/YttriLab), Carnegie Mellon University
 
 ---
+## Acknowledgements:
+We thank the labs of Drs. Jan Zimmermann and Benjamin Hayden at the University of Minnesota for their patience and unpublished 3D OpenMonkeyStudio pose data.
+
+
+---
 ## Get in contact:
 
 ### Corresponding authors:
